@@ -1,3 +1,4 @@
 # dev-workstation
 
-Test 1
+
+- [link test](test1.md)
